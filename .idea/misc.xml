@@ -3,16 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/drawable/ic_add_case.xml" value="0.2703125" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/drawable/ic_home.xml" value="0.2703125" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/drawable/ic_map.xml" value="0.2703125" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/drawable/ic_profile.xml" value="0.2703125" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/layout/case_item.xml" value="0.24974358974358973" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/layout/fragment_add_case.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/layout/fragment_map.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/menu/menu_bottom_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ahmedpro/AndroidStudioProjects/fael-khair/app/src/main/res/menu/menu_bottom_nav.xml" value="0.1" />
       </map>
     </option>
   </component>
