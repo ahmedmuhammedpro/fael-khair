@@ -1,4 +1,4 @@
-package com.khair.fael_khair
+package com.khair.faelkhair
 
 import org.junit.Test
 

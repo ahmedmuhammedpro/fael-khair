@@ -1,4 +1,4 @@
-package com.khair.fael_khair
+package com.khair.faelkhair
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
