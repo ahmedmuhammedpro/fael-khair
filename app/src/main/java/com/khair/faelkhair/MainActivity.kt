@@ -3,7 +3,7 @@ package com.khair.faelkhair
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import androidx.navigation.findNavController
+import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
 import com.khair.faelkhair.databinding.ActivityMainBinding
 
@@ -15,8 +15,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-        val navController = findNavController(R.id.main_nav_host)
-        binding.bottomNavView.setupWithNavController(navController)
+        val navHost = supportFragmentManager.findFragmentById(R.id.nav_host_fragment) as NavHostFragment
+        binding.bottomNavView.setupWithNavController(navHost.navController)
     }
 
 }
